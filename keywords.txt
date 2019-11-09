@@ -1,0 +1,28 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BeaviourRobot KEYWORD1
+
+#######################################
+# Classes (KEYWORD2)
+#######################################
+
+BehavourBasedRobot........KEYWORD2
+Behaviour.................KEYWORD2
+LocalMotion...............KEYWORD2
+AvoidCliffBehaviour.......KEYWORD2
+AvoidObstacleBehaviour....KEYWORD2
+CruiseBehaviour...........KEYWORD2
+SpinBehaviour.............KEYWORD2
+RemoteCommandBehaviour....KEYWORD2
+SendTelemetryBehaviour....KEYWORD2
+TurnSensor................KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+####################################### 
